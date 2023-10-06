@@ -1,5 +1,6 @@
 .photo-image img{
     width: 100%;
+    height: 400px;
 }
 
 nav ul li {
@@ -8,3 +9,4 @@ nav ul li {
     padding: 2%;
     width: 100%;
   }
+
