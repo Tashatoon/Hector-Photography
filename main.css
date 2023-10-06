@@ -10,3 +10,14 @@ nav ul li {
     width: 100%;
   }
 
+.about-header h2{
+    text-align: center;
+}
+
+.portfolio-header h2 {
+    text-align: center;
+}
+
+.contact-header h2 {
+    text-align: center;
+}
