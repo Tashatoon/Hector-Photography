@@ -2,13 +2,16 @@
     width: 100%;
     height: 400px;
 }
-
+/*move nav over*/
 nav ul li {
     display: inline;
     list-style: none;
-    padding: 2%;
-    width: 100%;
+    padding: 10%;
   }
+
+nav ul li a {
+    text-decoration: none;
+}
 
 .about-header h2{
     text-align: center;
@@ -17,7 +20,25 @@ nav ul li {
 .portfolio-header h2 {
     text-align: center;
 }
+/*center image/wording*/
+.portfolio-header img {
+    display: inline;
+}
 
 .contact-header h2 {
+    text-align: center;
+}
+/*move icons over*/
+.contact-header p {
+    display: inline;
+    padding: 6%;
+}
+
+.center p{
+    padding: 10%;
+}
+
+footer {
+    padding: 5%;
     text-align: center;
 }
