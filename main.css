@@ -17,12 +17,20 @@ nav ul li a {
     text-align: center;
 }
 
+.portfolio-header {
+    display: block;
+}
+
 .portfolio-header h2 {
     text-align: center;
 }
 /*center image/wording*/
-.portfolio-header img {
+#work img {
     display: inline;
+}
+
+#work {
+   display: inline;
 }
 
 .contact-header h2 {
@@ -34,11 +42,16 @@ nav ul li a {
     padding: 6%;
 }
 
+#contact {
+    text-align: center;
+}
 .center p{
-    padding: 10%;
+    text-align: center;
+    padding: 8%;
 }
 
 footer {
     padding: 5%;
     text-align: center;
 }
+
